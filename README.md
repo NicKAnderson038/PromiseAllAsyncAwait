@@ -1,2 +1,0 @@
-# PromiseAllAsyncAwait
-Created with CodeSandbox
